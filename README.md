@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sahil-Attri
-- 👀 I’m interested in software development.
+- 👀 i build a e-commerce website with the help of HTML<CSS and JAVASCRIPT.
 - 🌱 I’m currently learning java
 
 <!---
